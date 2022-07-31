@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dnatureguy.
+- 👋 Hi, I am Muhammed Oladapo.
 - 👀 I’m interested in being a front-end developer.
 - 🌱 I’m currently learning web prograqmming using python and javascript.
 - 💞️ I’m eager to collaborate on front-end projects
